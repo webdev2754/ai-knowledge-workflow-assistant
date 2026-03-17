@@ -1,0 +1,22 @@
+# Modul 2 – Foundation Models
+
+## Training Data
+## Multilingual Models
+## Domain-Specific Models
+
+## Modeling
+- Model Architecture
+- Model Size
+
+## Post-Training
+- Supervised Finetuning
+- Preference Finetuning
+
+## Sampling
+- Sampling Fundamentals
+- Sampling Strategies
+- Test Time Compute
+
+## Structured Outputs
+## The Probabilistic Nature of AI
+## Summary
