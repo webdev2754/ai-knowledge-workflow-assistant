@@ -5,7 +5,7 @@ Dieses Projekt folgt dem Buch
 
 Ziel: Ein vollständiges AI-System mit RAG, Agenten, Finetuning, Dataset Engineering,
 Evaluation, Optimierung und Monitoring.
-
+#
 ## Struktur
 - /src – Code
 - /docs – Dokumentation
